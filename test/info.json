@@ -1,0 +1,10 @@
+{
+    "author" : ["Mighty#0001"],
+    "install_msg" : "This cog has been installed.",
+    "name" : "test",
+    "short" : "This cog is just for testing",
+    "requirements" : ["n/a"],
+    "description" : "For testing the features of redbot`",
+    "permissions" : ["Like basic perms ig"],
+    "tags" : ["none"]
+}
